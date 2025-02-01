@@ -1,4 +1,5 @@
 Simple Counter Website
+
 A minimalistic counter website built using HTML, CSS, and JavaScript. This project allows users to increment, decrement, and reset a counter value dynamically.
 -------------------------
 Features
