@@ -1,0 +1,25 @@
+#myCountLabel{
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 10em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#btnContainer{
+    text-align: center;
+}
+
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    background-color: #7fb6ff;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.25;
+}
+.buttons:hover{
+    background-color:#6c9cdb;
+}
